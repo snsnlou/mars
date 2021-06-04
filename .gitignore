@@ -77,3 +77,4 @@ mars/lib/*.c*
 mars/actors/*.c*
 mars/actors/pool/*.c*
 mars/serialize/*.c*
+root_key
